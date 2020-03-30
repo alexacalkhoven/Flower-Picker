@@ -1,8 +1,8 @@
-## Flower-Picker
+# Flower-Picker
 
 This simple neural network will tell you if you're describing a rose or a sunflower
 
-# Instructions
+## Instructions
 To test the flower identification neural net, make up input data with the following assumptions:
 
 Size is quantified on a scale from 1-10, 1 being the smallest, 10 being the largest.
